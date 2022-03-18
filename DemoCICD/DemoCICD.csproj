@@ -8,6 +8,7 @@
     <Version>1.0.1</Version>  
     <Authors>Trong</Authors>
     <Company>UIT</Company>
+    <RepositoryUrl>https://github.com/princ3od/DemoCICD.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
