@@ -4,7 +4,7 @@
     {
         public static void Log()
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test PR");
         }
     }
 }
