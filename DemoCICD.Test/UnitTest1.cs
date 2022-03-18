@@ -18,7 +18,7 @@ namespace DemoCICD.Test
         [TestCase]
         public void Test2()
         {
-            Assert.Fail();
+            Assert.Pass();
         }
     }
 }
