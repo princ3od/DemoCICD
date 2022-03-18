@@ -24,6 +24,6 @@ jobs:
       working-directory: ./DemoCICD
       
     - name: Run unit test
-      run: dotnet test DemoCICD.csproj --configuration release --no-build --verbosity normal
-      working-directory: ./DemoCICD
+      run: dotnet test DemoCICD.Test.csproj --configuration release --no-build --verbosity normal
+      working-directory: ./DemoCICD.Test
       
